@@ -2,7 +2,7 @@
 
 ## Autores 
 
-Pilar Elisii
+Pilar Elisii /n
 Florencia Sorondo
 Agustina Sanchez
 Valentina Sol Raimondo
