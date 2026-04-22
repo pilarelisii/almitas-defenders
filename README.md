@@ -1,8 +1,8 @@
 # almitas-defenders
 
-## Autores 
+## Participantes 
 
-Pilar Elisii /n
-Florencia Sorondo
-Agustina Sanchez
+Pilar Elisii,
+Florencia Sorondo,
+Agustina Sanchez,
 Valentina Sol Raimondo
